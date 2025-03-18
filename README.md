@@ -8,7 +8,9 @@ Skilled in business analysis, SQL, Power BI, and financial modeling.
 ### 📌 Accenture Branding Strategy (Case Study)  
 - Analyzed Accenture’s branding challenges in Denmark.  
 - Developed employer branding strategies using competitive benchmarking.  
-- **(Accenture Branding Poster.pdf)**  
+- [Download Accenture Branding Poster](https://github.com/namanmuchhala01/Accenture-Branding-Poster/blob/main/Accenture%20Branding%20Poster.pdf)  
+- [Download Accenture Branding Report](https://github.com/namanmuchhala01/Accenture-Branding-Poster/blob/main/Accenture%20Branding%20Report.pdf)  
+
 ## Skills  
 ✔️ Business Analysis (SWOT, PESTEL, Market Sizing)  
 ✔️ SQL | Excel | Power BI | Tableau  
